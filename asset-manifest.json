@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MenuForRestaurant/static/css/main.d768aff7.chunk.css",
+    "main.js": "/MenuForRestaurant/static/js/main.67e3106f.chunk.js",
+    "main.js.map": "/MenuForRestaurant/static/js/main.67e3106f.chunk.js.map",
+    "runtime~main.js": "/MenuForRestaurant/static/js/runtime~main.aad87eb3.js",
+    "runtime~main.js.map": "/MenuForRestaurant/static/js/runtime~main.aad87eb3.js.map",
+    "static/css/2.266e55a5.chunk.css": "/MenuForRestaurant/static/css/2.266e55a5.chunk.css",
+    "static/js/2.f12894b2.chunk.js": "/MenuForRestaurant/static/js/2.f12894b2.chunk.js",
+    "static/js/2.f12894b2.chunk.js.map": "/MenuForRestaurant/static/js/2.f12894b2.chunk.js.map",
+    "index.html": "/MenuForRestaurant/index.html",
+    "precache-manifest.cd635e822aa87f9cee3dc23f19fb4838.js": "/MenuForRestaurant/precache-manifest.cd635e822aa87f9cee3dc23f19fb4838.js",
+    "service-worker.js": "/MenuForRestaurant/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/MenuForRestaurant/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d768aff7.chunk.css.map": "/MenuForRestaurant/static/css/main.d768aff7.chunk.css.map",
+    "static/media/burger.png": "/MenuForRestaurant/static/media/burger.324b1341.png",
+    "static/media/coffee.png": "/MenuForRestaurant/static/media/coffee.de4bad75.png",
+    "static/media/dessert.png": "/MenuForRestaurant/static/media/dessert.324f1f48.png",
+    "static/media/french_fries.png": "/MenuForRestaurant/static/media/french_fries.fa1f933d.png",
+    "static/media/nuggets.png": "/MenuForRestaurant/static/media/nuggets.3b4aa918.png",
+    "static/media/roll.png": "/MenuForRestaurant/static/media/roll.cd39f431.png"
+  }
+}
