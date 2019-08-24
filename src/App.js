@@ -22,7 +22,7 @@ class App extends Component {
             <Navbar />
             <div className='container'>
               <Switch>
-                <Route exact path='/MenuForRestaurant' component={Index} />
+                <Route exact path='/' component={Index} />
                 <Route path='/burger' component={Item_burger} />
                 <Route path='/coffee' component={Item_coffee} />
                 <Route path='/roll' component={Item_roll} />

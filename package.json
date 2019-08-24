@@ -12,7 +12,7 @@
     "react-scripts": "3.1.1",
     "styled-components": "^4.3.2"
   },
-  "homepage": "https://voloxatyj.github.io/burgermenu",
+  "homepage": "https://voloxatyj.github.io/MenuForRestaurant",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
